@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "youtube",
+    "slug": "youtube",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.mts.thawfiqyoutube",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.mts.thawfiqsyoutube",
+      "versionCode": 1
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
